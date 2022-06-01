@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OeiJsPKxHRcHAKtCgdr8XUG7plFFWwGSgDr5fVFUKtwUCIfB0jweaqo6t+0o+Aa4s7uPBTwR+/5P+ZsAMDLkPA==",
+  "dgSpecHash": "mT6vyQOdCwZAeveC/bjsU+rNK2CqmUBKrdZkvQ/8p/mtm1xY5L3IWliGNg6I43vydWa5tgJmm79eiUiPquNyQA==",
   "success": true,
-  "projectFilePath": "/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/HelloCSharp.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Desktop\\Project\\C_study\\HelloCSharp\\HelloCSharp\\HelloCSharp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
