@@ -1,0 +1,15 @@
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.deps.json
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.runtimeconfig.json
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.dll
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/bin/Debug/net6.0/HelloCSharp.pdb
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.csproj.AssemblyReference.cache
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.AssemblyInfoInputs.cache
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.AssemblyInfo.cs
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.csproj.CoreCompileInputs.cache
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.dll
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/refint/HelloCSharp.dll
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.pdb
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/HelloCSharp.genruntimeconfig.cache
+/Users/binhk/Coding/C_study/HelloCSharp/HelloCSharp/obj/Debug/net6.0/ref/HelloCSharp.dll
