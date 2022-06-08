@@ -7,12 +7,22 @@ using System.Threading.Tasks;
 
 namespace HelloCSharp
 {
+    class Car
+    {
+        private string handle = "AMODEL";
+
+        public void carRun()
+        {
+            Console.WriteLine("자동");
+        }
+    }
+
     class Program
     {
         static void Main(string[] args)
         {
+            System.Console.WriteLine("System");
             Console.WriteLine("Hello, C#!");
-            Console.ReadKey();
         }
     }
 }
